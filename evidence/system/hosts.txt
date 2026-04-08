@@ -1,0 +1,8 @@
+### /etc/hosts file verification
+
+cat /etc/hosts
+
+127.0.0.1    localhost  localhost.localdomain
+::1          localhost  localhost.localdomain
+172.16.0.50  server1.example.com  server1
+172.16.0.100 server1.example.com  server1
