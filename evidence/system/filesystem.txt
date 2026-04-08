@@ -1,0 +1,5 @@
+### Verify Disabled Filesystems
+
+lsmod | egrep 'cramfs|squashfs|udf'
+
+No Output
