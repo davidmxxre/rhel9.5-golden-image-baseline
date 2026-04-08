@@ -1,5 +1,0 @@
-## Verify Hostname
-
-hostnamectl
-
-Static hostname: server1.example.com
