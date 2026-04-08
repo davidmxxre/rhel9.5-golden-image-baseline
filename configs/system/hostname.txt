@@ -1,4 +1,4 @@
-# RHEL 9 Golden Image Baseline
+# RHEL 9.5 Golden Image Baseline
 # System Hostname (FQDN)
 
 server1.example.com
