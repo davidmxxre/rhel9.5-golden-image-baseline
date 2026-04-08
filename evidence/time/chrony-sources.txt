@@ -1,0 +1,6 @@
+### Verify NTP is syncing correct source from chrony.conf
+
+chronyc sources -v
+
+Output:
+time.google.com
