@@ -1,0 +1,3 @@
+### Verify Clock Is Synchronized
+
+chronyc tracking
