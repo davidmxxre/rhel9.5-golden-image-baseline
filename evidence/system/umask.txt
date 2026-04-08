@@ -1,0 +1,6 @@
+### Verify umask
+
+umask
+
+Outpout:
+0027
