@@ -1,1 +1,5 @@
+### Hostname Verification
 
+hostnamectl
+
+Static Hostname: server1.example.com
