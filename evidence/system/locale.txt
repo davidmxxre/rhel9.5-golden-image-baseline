@@ -1,0 +1,6 @@
+### Verify locale status
+
+localectl status
+
+System Locale: LANG=en_US.UTF-8
+VC Keymap: us
